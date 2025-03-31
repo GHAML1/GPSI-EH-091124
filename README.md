@@ -8,6 +8,7 @@ This file includes three datasets:
 Geno: A genomic relationship matrix derived from the Markers data.
 
 Markers: Genetic marker data.
+
 Pheno: A data frame containing phenotypic records for each year (2018–2022) and each line (GID), with information on three selection indices:
 
   Smith-Hazel Index (SMITH)
