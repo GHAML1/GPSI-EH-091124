@@ -6,8 +6,12 @@ File 2: dat-PP-Index-Markers-LC_3SIsValues_18-22_July-26.RData
 This file includes three datasets:
 
 Geno: A genomic relationship matrix derived from the Markers data.
+
 Markers: Genetic marker data.
 Pheno: A data frame containing phenotypic records for each year (2018–2022) and each line (GID), with information on three selection indices:
-Smith-Hazel Index (SMITH)
-ESIM (Economic Selection Index Method)
-DG (Desired Gains Index)
+
+  Smith-Hazel Index (SMITH)
+  
+  ESIM (Economic Selection Index Method)
+  
+  DG (Desired Gains Index)
